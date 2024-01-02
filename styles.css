@@ -1,0 +1,22 @@
+nav{
+    background-color: black;
+}
+li a{
+  display: block;
+    padding: 10px;
+}
+li a:hover{
+    background-color: aliceblue;
+    color: black;
+}
+ul{
+    list-style: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
